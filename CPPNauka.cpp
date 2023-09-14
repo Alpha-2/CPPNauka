@@ -11,5 +11,5 @@ int dodawanie(int liczba1, int liczba2)
 
 int main()
 {
-    cout << "Wynik:" << " " << vw(2, 4);
+    cout << "Wynik:" << " " << dodawanie(2, 4);
 }
